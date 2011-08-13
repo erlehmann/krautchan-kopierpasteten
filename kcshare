@@ -1,0 +1,7 @@
+Hallo Bernd, 
+
+ich habe mir gedacht, das ewige Geficke mit nur 10MB-großen Anhängen usw. ist doch kacke, wenn man z.B. hier mal einen Film posten will. 
+Darum habe ich kcshare programmiert. 
+Es zerlegt einfach jede Datei in 4x10MB große Stücke, die als .zip in jeweils einem Post zusammengefasst werden (d.h. pro Post kann man logischerweise 40MB hochladen). Größere Dateien werden auf beliebig viele Posts verteilt (habe das nur mit meiner lokalen chan-Installation getestet, aber 1GB-große Files sind kein Problem). 
+Der Dateiname und die Teilenummer wird automatisch als Betreff eingetragen, so dass im umgekehrten Fall alle Teile automatisch gefunden werden, d.h. es ist EIN EINZELNES Kommando, um eine komplette, beliebig große Datei hoch- oder runterzuladen. Runterladen dauert am Anfang etwas, da zur Zeit noch erstmal alle Posts (bis Seite 10) nach Teilen der Datei durchsucht werden. 
+Somit kann man nun hier ganz easy Filme usw. posten und runterladen.
