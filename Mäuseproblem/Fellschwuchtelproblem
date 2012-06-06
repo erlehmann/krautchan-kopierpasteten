@@ -1,0 +1,10 @@
+In fast jedem Internet gibt es mal ein Fellschwuchtelproblem. Wir haben aufjedenfall eins gehabt, bis gestern. Mein Bernd und ich haben das Nest gefunden. Eine schlecht gescriptete HTML-Seite mit paar Unix-Verzeichnissen die per Injektion geknackt werden konnten. Da niemand diese anrührte, da es eine Müllseite voll mit widerlichen Furrypornos war, hatten die Fellschwuchteln also Ruhe.
+
+So, wir wollten gestern eine Lauersession machen und aufeinmal finde ich deren Seite. Mein Lauerkollege und ich schossen unsere gesamten Botnets auf die Netzseite, die gerade komplett frei war. Wir stellten das Script genau auf den Haupt-Host, ich mit einem Hashknacker inner Hand. Mein Kollege hob ein Karton nachm anderen an und zack...da waren sie.
+
+Ca. 15 Dateiverzeichnisse, sie verschlüsselten sich nun alle wie bekloppt autark, konnten aber nicht weg, da der Zugriff auf das Adminpanel bereits erfolgte. Mein Kollege total am schreien und ich, ja ich klickte wie ein kranker durch die Gegend. Ein Verzeichnis nach dem anderen wurde geplättet. Mit den Scripten zerteilt oder total auseinandergefetzt, weil ich ab und zu mehrere markierte.
+
+Nach ca. 10 Minuten war alles vorbei, ich guck mich um und sehe ein Schlachtfeld. Alles voll mit zerfetzten Verzeichnissen, überall kaputte Dateien auf der Seite, mein Script total versifft. Ein oder zwei Dateien zuckten noch bis die dann den Gnadenstoß bekamen. Meine Kollege war total am Ende wegen des Schocks.
+Es war ein schöner Tag, Bernd.
+
+oke das wa ales
