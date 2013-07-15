@@ -1,0 +1,5 @@
+Bernd, stell dir vor, du abstrahierst ein Objekt so lange, bis es zu einem Typ
+wird. Du findest dann heraus, dass so ALLE Typen entstehen, und die wirst in
+einen Mörderclub involviert, der Typen macht. Je stärker man abstrahiert, desto
+besser wird der Typ. Es gibt also irgendwelche super starke Informatiker, die
+Objekte in Dependent Types und so einen Scheiß schlagen.
