@@ -1,0 +1,7 @@
+Im Prinzip passiert gerade folgendes:
+
+Lennart programmiert an einem technisch miserablen Betriebssystem ("Core OS"). Sein Arbeitgeber Red Hat unterwandert eine Vielzahl von Open-Source-Projekten, die bisher Software für Unix (Linux, BSD, Solaris, etc.) veröffentlicht haben und manipuliert sie (u. a. mit Geld) dahin, daß sie ihre Programme künftig exklusiv mit Lennarts Betriebssystem kompatibel machen. Denn Lennarts Arbeitgeber verkauft die Referenzimplementierung davon.
+
+Läuft also ähnlich wie in den 90ern, als Windows, das zunächst auf einer Vielzahl von DOS-Betriebssystemen unterschiedlicher Hersteller lief, plötzlich nur noch mit MS-DOS kompatibel war und damit alle anderen DOS-Hersteller aus dem Markt gedrängt wurden.
+
+Ziel von Red Hat ist, alle Unix-Alternativen zu töten und alle Linux-Distributionen zu Kopien von Core OS zu machen. Denn Red Hat lebt von Support-Subscriptions und was kann man besser supporten, als die eigene Software? Am besten geht das, wenn man Tricks und Kniffe kennt, die der Konkurrent mit der schlechten Red-Hat-Kopie nicht kennt. So kann man langfristig dessen Kunden einsammeln und hat am Ende ein Monopol.
